@@ -15,6 +15,8 @@ https://www.cegepmontpetit.ca/cegep/a-propos-du-cegep/se-rendre
 
 ### Pour se rendre à la foire dans le CEGEP
 
-Le local est formellement appelé F-026
+Le local est formellement appelé F-026 vous trouverez un plan du rez de chaussée annoté ici:
 
-TODO plan PDF barbouillé upload
+[plan PDF](plan-foire.pdf)
+
+
