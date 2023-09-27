@@ -35,24 +35,15 @@ Les deux. Nous validerons les 10 premières semaines de ton emploi en informatiq
 
 ## J'ai trouvé un stage par moi-même, quoi faire
 
-```mermaid!
-  graph TD;
-    candidater["J'ai candidaté sur un site"]
-    contact["J'ai un contact / entrevue en entreprise"]
-    oui["J'ai un oui pour mon stage"]
-    coordoValide["Un coordo va valider si le stage est admissible avec l'entreprise"]
-    convention["En janvier, on produira ta convention de stage"]
-    essaieEncore["Fini ici, on peut essayer ailleurs"]
-      candidater-->contact;
-      contact--> |pris|oui;
-      contact--> |pas pris|essaieEncore;
-      oui--> |envoie le courriel au coordo| coordoValide
-      coordoValide--> |tout est beau| convention;
-      coordoValide--> |pas admissible| essaieEncore;
-      
-```
+- tu as candidaté à une offre:
+  - tu obtiens une entrevue, pense bien à mentionner les dates (à partir du 4 mars 2024)
+    - tu obtiens un oui pour le stage, envoie le courriel de ton contact à Joris
+      - les réponses rendent le stage adminissible, on se reparle en janvier pour la convention
+      - le stage n'est pas admissible, on continue de chercher
+    - pas de réponse ou non, on continue de chercher
+  - pas d'entrevue ou pas de réponse, on continue de chercher
 
-Dans quelques cas, on peut contacter l'entreprise avant que tu obtiennes un "oui" si tu souhaites qu'on valide avant.
+Dans quelques cas, on peut contacter l'entreprise avant que tu obtiennes un "oui" si tu souhaites qu'on valide le mandat avant.
 
 #### Questions courantes:
 
