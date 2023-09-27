@@ -17,7 +17,7 @@ Si le stage se passe en présentiel, nous demandons également que l'entreprise 
 Nos finissants s'orientent après leur première session vers un profil programmation (info de gestion) ou réseautique (gestion des réseaux).
 
 ### Programmation
-[https://info.cegepmontpetit.ca/dec/p](Grille des cours du profil programmation)
+[Grille des cours du profil programmation](https://info.cegepmontpetit.ca/dec/p)
 
 Nos finissants en programmation ont suivi une formation centrée sur 2 séquences principales:
 - Web: ils ont suivi 4 cours dans le stack ASP.Net MVC, WebAPI. Les étudiants ont développé des clients Angular et sont très familiers avec les services HTTP / JSON
@@ -42,7 +42,7 @@ Il est assez courant que les stages commencent par des tâches de bugfix qui per
 Nous avons eu quelques offres de stages en DevOps. Cela dépendra de la description précise mais la plupart du temps ces stages sont admissibles également.
 
 ### TI / réseautique
-[https://info.cegepmontpetit.ca/dec/r](Grille des cours du profil réseautique)
+[Grille des cours du profil réseautique](https://info.cegepmontpetit.ca/dec/r)
 
 Nos étudiants ont complété 3 séquences :
 - Serveurs: une série de cours couvrent les services intranet et internet aussi bien sous Windows que Linux. On parle de la gestion d'un parc informatique Windows, d'hébergement de services (IIS, web, DHCP, DNS etc)
