@@ -1,5 +1,7 @@
 # Recruter un finissant de technique en informatique, entreprise
 
+## [Formulaire pour offrir un stage](https://forms.gle/vc9KWejCTd5h8Ea56)
+
 ## Conditions pour qu'un stage soit admissible:
 
 Les grandes conditions:
