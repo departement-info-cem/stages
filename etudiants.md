@@ -35,7 +35,7 @@ Les deux. Nous validerons les 10 premières semaines de ton emploi en informatiq
 
 ## J'ai trouvé un stage par moi-même, quoi faire
 
-```mermaid
+```mermaid!
   graph TD;
     candidater["J'ai candidaté sur un site"]
     contact["J'ai un contact / entrevue en entreprise"]
