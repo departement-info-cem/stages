@@ -26,20 +26,29 @@ Pour les étudiants intéressés par la cybersécurité en particulier, il est f
 
 ```mermaid
   graph TD;
-    candidater["J'ai cnadidaté sur un site"]
-    contact["J'ai un contact en entreprise"]
+    candidater["J'ai candidaté sur un site"]
+    contact["J'ai un contact / entrevue en entreprise"]
     oui["J'ai un oui pour mon stage"]
     coordoValide["Un coordo va valider si le stage est admissible avec l'entreprise"]
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+    convention["En janvier, on produira ta convention de stage"]
+    essaieEncore["Fini ici, on peut essayer ailleurs"]
+      candidater-->contact;
+      contact--> |pris|oui;
+      contact--> |pas pris|essaieEncore;
+      oui--> |envoie le courriel au coordo| coordoValide
+      coordoValide--> |tout est beau| convention;
+      coordoValide--> |pas admissible| essaieEncore;
+      
 ```
+
+Dans quelques cas, on peut contacter l'entreprise avant que tu obtiennes un "oui" si tu souhaites qu'on valide avant.
 
 Questions courantes:
 - *Je peux quand même candidater aux offres affichées?* Oui, les coordos vont chercher les offres pour tous les finissants. Si tu trouves une offre qui t'intéresse plus que le stage déjà trouvé, tu pourrais faire une candidature
 - *Quelles sont les conditions pour qu'un stage soit admissible pour la technique?* Les conditions sont les suivantes:
   1. le mandat doit correspondre aux compétences de la techniques. Dur de donner une réponse générale ici, nous regardons entre coordos
-  2. il doit y avoir un superviseur qualifié et motivé dans 
+  2. il doit y avoir un superviseur qualifié et motivé dans l'entreprise. Le département informatique ne doit pas être exclusivement constitué de stagiaires
+  3. le stage doit couvrir un minimum de 315 heures. Nous demandons actuellement que le stages dure 10 semaines
+  4. l'entreprise doit avoir une présence physique dans le grand Montréal
 
 ## Je veux candidater aux offres affichées par la coordination de stages
