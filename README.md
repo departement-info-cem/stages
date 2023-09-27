@@ -6,12 +6,12 @@ Cette année, nos finissants de DEC technique seront en stage du 4 mars 2024 au 
 
 Si vous êtes une entreprise et que vous cherchez un stagiaire, un employé junior ou que vous souhaitez proposer un stage:
 
-[Pour les entreprises](entreprises)  
+**[Pour les entreprises](entreprises)**
 
 
 Si vous êtes un étudiant, les questions fréquemment posées sont ici:
 
-[Pour les étudiants](etudiants)
+**[Pour les étudiants](etudiants)**
 
 ## Profs responsables
 
