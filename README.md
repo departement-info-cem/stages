@@ -15,10 +15,10 @@ Si vous êtes un étudiant, les questions fréquemment posées sont ici:
 
 ## Profs responsables
 
-### Vincent Drolet
+### Vincent Drolet [profil Linkedin](https://www.linkedin.com/in/vdrolet)
 Principalement un professeur de réseautique avec un intérêt prononcé pour la cybersécurité. Vincent s'occupe principalement de la relation avec les étudiants.
 
-### Joris Deguet
+### Joris Deguet [profil Linkedin](https://www.linkedin.com/in/joris-deguet-463781a)
 Principalement un professeur de programmation avec un penchant pour la programmation client mobile (Android / Flutter). Joris s'occupe principalement de la relation avec les entreprises.
 
 ### Courriel stage commun
