@@ -1,5 +1,7 @@
 # Département d'informatique du collège Édouard Montpetit
 
+## [Foire au stages du 11 octobre](foire)
+
 ## Stages des finissants Diplôme d'études collégiales
 
 Cette année, nos finissants de DEC technique seront en stage du 4 mars 2024 au 10 mai 2024.
