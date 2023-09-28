@@ -92,7 +92,9 @@ Notre programme inclut un projet des finissants où les étudiants travaillent �
 
 *Je pense qu'un finissant DEC n'aura pas le niveau, pourquoi offrir un stage?*
 
-Écrivez-nous à stages-info@cegepmontpetit.ca et nous pouvons faire un appel ou visio. Notre but est de fournir des réponses à toute question. N'hésitez pas, notre but est de mettre les entreprises en relation avec leurs futurs employé(e)s
+Nos étudiants sont souvent surprenants. Nous vous proposons d'offrir un stage pour les recevoir en entrevue, éventuellement leur faire passer un test technique. On ne vous demande pas devous engager à prendre nos étudiants mais plutôt à leur consacrer un peu de temps pour une entrevue.
+
+Nous pouvons aussi en discuter, nous sommes dispos pour un appel ou un visio.
 
 *Je suis incertain, qu'est-ce que je fais?*
 
