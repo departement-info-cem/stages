@@ -92,7 +92,7 @@ Notre programme inclut un projet des finissants où les étudiants travaillent �
 
 *Je pense qu'un finissant DEC n'aura pas le niveau, pourquoi offrir un stage?*
 
-Nos étudiants sont souvent surprenants. Nous vous proposons d'offrir un stage pour les recevoir en entrevue, éventuellement leur faire passer un test technique. On ne vous demande pas devous engager à prendre nos étudiants mais plutôt à leur consacrer un peu de temps pour une entrevue.
+Nos étudiants sont souvent surprenants. Nous vous proposons d'offrir un stage pour les recevoir en entrevue, éventuellement leur faire passer un test technique. On ne vous demande pas de vous engager à prendre nos étudiants mais plutôt à leur consacrer un peu de temps pour une entrevue.
 
 Nous pouvons aussi en discuter, nous sommes dispos pour un appel ou un visio.
 
