@@ -11,7 +11,7 @@ Le 11 octobre en matinée (9h à 12h)
 Dans la cafeteria blanche du CÉGEP. 
 
 ### Pour se rendre au collège
-https://www.cegepmontpetit.ca/cegep/a-propos-du-cegep/se-rendre
+[Se rendre au collège](https://www.cegepmontpetit.ca/cegep/a-propos-du-cegep/se-rendre)
 
 ### Pour se rendre à la foire dans le CEGEP
 
