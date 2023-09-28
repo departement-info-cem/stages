@@ -16,7 +16,7 @@ Toutes ces pistes peuvent te permettre de te trouver un stage. Notre expérience
 
 Pour les étudiants intéressés par la cybersécurité en particulier, il est fortement recommandé de participer à des événements (HackFest, CTF etc.) pour rencontrer / se présenter à la communauté.
 
-###Questions courantes
+### Questions courantes
 
 **Combien d'élèves se trouvent leur stage tout seul?** 
 Année après année, on parle d'environ 10% des finissants arrivent avec leur stage
