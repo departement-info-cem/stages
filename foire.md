@@ -17,10 +17,5 @@ https://www.cegepmontpetit.ca/cegep/a-propos-du-cegep/se-rendre
 
 Le local est formellement appelé F-026 vous trouverez un plan du rez de chaussée annoté ici:
 
-![Plan de la foire](assets/planfoire.png "Plan de la foire")
-![Plan de la foire](/stages/assets/planfoire.png "Plan de la foire")
-
-[Plan PDF](/stages/assets/planfoire.pdf "Plan de la foire")
-
-
+![ planfoire](https://github.com/departement-info-cem/stages/assets/372085/91d44de2-fda6-4d01-a54c-6f0209c6e75f)
 
