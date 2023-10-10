@@ -2,6 +2,8 @@ Différentes stratégies
 
 Videos pour accueil.
 
+Autre commencer à parler aux étudiants fin de première année.
+
 # Critères d'arrêt
 
 ## Contacter les anciens étudiants via Linkedin
