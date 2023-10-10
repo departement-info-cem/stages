@@ -1,5 +1,7 @@
 Différentes stratégies 
 
+Videos pour accueil.
+
 # Critères d'arrêt
 
 ## Contacter les anciens étudiants via Linkedin
