@@ -4,7 +4,7 @@
 
 ## Stages des finissants Diplôme d'études collégiales
 
-Cette année, nos finissants de DEC technique seront en stage du 4 mars 2024 au 10 mai 2024.
+Cette année, nos finissants de DEC technique seront en stage du **4 mars 2024 au 10 mai 2024**.
 
 Si vous êtes une entreprise et que vous cherchez un stagiaire, un employé junior ou que vous souhaitez proposer un stage:
 
