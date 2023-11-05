@@ -20,59 +20,57 @@ Les grandes conditions:
 
 Nos finissants s'orientent après leur première session vers un profil 
 
-<details>
-  <summary>Programmation (info de gestion) </summary>
-    
-    
-  [Grille des cours du profil programmation](https://info.cegepmontpetit.ca/dec/p)
+
+### Programmation (info de gestion)
   
-  Nos finissants en programmation ont suivi une formation centrée sur 2 séquences principales:
-  - Web: ils ont suivi 4 cours dans le stack **ASP.Net MVC**, WebAPI. Les étudiants ont développé des clients Angular et sont très familiers avec les services HTTP / JSON
-  - Mobile: ils ont suivi 2 cours de natifs Windows puis 2 cours de mobile **Android en Java** et un cours de mobile multi-plateforme en **Flutter**.
   
-  Au delà de ces 2 axes principaux, les étudiants ont également eu des cours de bases de données, de cyber-sécurité, d'analyse, de veille techno et de conception d'interfaces.
-  
-  Nos étudiants ont déjà complété de nombreux stages dans d'autres technologies / stack par le passé. Quelques exemples:
-  - Stages sur des backends Java Spring Boot, ou encore PHP Laravel etc.
-  - Stages en programmation client avec React
-  - Développement de jeux vidéos avec Unity
-  - etc.
-  
-  Dans ces cas, la plupart des étudiants mettent en général 2 à 3 semaines à devenir productif dans le stack de l'entreprise.
-  
-  #### Stages classiques en programmation
-  
-  La plupart des stages en informatique correspondent à un mandat de développeur junior, peu importe le stack technologique. 
-  
-  Il est assez courant que les stages commencent par des tâches de bugfix qui permettent au superviseur de se faire une idée sur le niveau du stagiaire tout en permettant au stagiaire de se familiariser avec les projets.
-  
-  Nous avons eu quelques offres de stages en DevOps. Cela dépendra de la description précise mais la plupart du temps ces stages sont admissibles également.
-</details>
+[Grille des cours du profil programmation](https://info.cegepmontpetit.ca/dec/p)
+
+Nos finissants en programmation ont suivi une formation centrée sur 2 séquences principales:
+- Web: ils ont suivi 4 cours dans le stack **ASP.Net MVC**, WebAPI. Les étudiants ont développé des clients Angular et sont très familiers avec les services HTTP / JSON
+- Mobile: ils ont suivi 2 cours de natifs Windows puis 2 cours de mobile **Android en Java** et un cours de mobile multi-plateforme en **Flutter**.
+
+Au delà de ces 2 axes principaux, les étudiants ont également eu des cours de bases de données, de cyber-sécurité, d'analyse, de veille techno et de conception d'interfaces.
+
+Nos étudiants ont déjà complété de nombreux stages dans d'autres technologies / stack par le passé. Quelques exemples:
+- Stages sur des backends Java Spring Boot, ou encore PHP Laravel etc.
+- Stages en programmation client avec React
+- Développement de jeux vidéos avec Unity
+- etc.
+
+Dans ces cas, la plupart des étudiants mettent en général 2 à 3 semaines à devenir productif dans le stack de l'entreprise.
+
+#### Stages classiques en programmation
+
+La plupart des stages en informatique correspondent à un mandat de développeur junior, peu importe le stack technologique. 
+
+Il est assez courant que les stages commencent par des tâches de bugfix qui permettent au superviseur de se faire une idée sur le niveau du stagiaire tout en permettant au stagiaire de se familiariser avec les projets.
+
+Nous avons eu quelques offres de stages en DevOps. Cela dépendra de la description précise mais la plupart du temps ces stages sont admissibles également.
 
 
-<details>
-  <summary>Réseautique (gestion des réseaux)</summary>
-    
-    
-  [Grille des cours du profil réseautique](https://info.cegepmontpetit.ca/dec/r)
-  
-  Nos étudiants ont complété 3 séquences :
-  - Serveurs: une série de cours couvrent les services intranet et internet aussi bien sous **Windows** que Linux. On parle de la gestion d'un parc informatique Windows, d'hébergement de services (IIS, web, DHCP, DNS etc)
-  - Réseau: les étudiants ont suivi des cours dans le **stack Cisco** autour du routage, du switching et également de la configuration de pare-feu
-  - Cyber sécurité: nos étudiants ont suivi une séquence de **3 cours** qui se concentrent sur la protection et la surveillance d'un réseau informatique
-  
-  Nos étudiants ont également démontré une capacité de s'adapter à d'autres stacks technologiques
-  
-  #### Stages classiques en TI / réseautique
-  
-  La plupart de nos stagiaires se voient confier un mélange d'administration et de soutien utilisateur
-  - Parfois nous avons des mandats de 5 jours semaine en soutien niveau 1
-  - Parfois les stagiaires évoluent au cours du stage vers du niveau 2 ou de l'administration
-  
-  Dans tous les cas, ces stages sont admissibles. De nombreuses entreprises utilisent le soutien utilisateur pour se faire une idée du niveau et des envies d'un stagiaire,
 
- 
-</details>
+### Réseautique (gestion des réseaux)
+    
+  
+[Grille des cours du profil réseautique](https://info.cegepmontpetit.ca/dec/r)
+
+Nos étudiants ont complété 3 séquences :
+- Serveurs: une série de cours couvrent les services intranet et internet aussi bien sous **Windows** que Linux. On parle de la gestion d'un parc informatique Windows, d'hébergement de services (IIS, web, DHCP, DNS etc)
+- Réseau: les étudiants ont suivi des cours dans le **stack Cisco** autour du routage, du switching et également de la configuration de pare-feu
+- Cyber sécurité: nos étudiants ont suivi une séquence de **3 cours** qui se concentrent sur la protection et la surveillance d'un réseau informatique
+
+Nos étudiants ont également démontré une capacité de s'adapter à d'autres stacks technologiques
+
+#### Stages classiques en TI / réseautique
+
+La plupart de nos stagiaires se voient confier un mélange d'administration et de soutien utilisateur
+- Parfois nous avons des mandats de 5 jours semaine en soutien niveau 1
+- Parfois les stagiaires évoluent au cours du stage vers du niveau 2 ou de l'administration
+
+Dans tous les cas, ces stages sont admissibles. De nombreuses entreprises utilisent le soutien utilisateur pour se faire une idée du niveau et des envies d'un stagiaire,
+
+
 
 
 ## Questions courantes
