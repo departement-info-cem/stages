@@ -2,11 +2,11 @@
 
 ## [Formulaire pour offrir un stage](https://forms.gle/vc9KWejCTd5h8Ea56)
 
-## Un stage avec Édouard Montpetit:
+## Un stage avec Édouard Montpetit: <img src="https://www.cegepmontpetit.ca/static/uploaded/Files/Cegep/Pages-flottantes/Logos/Logo%202023/CEM/Logo_Edouard_Montpetit_Slogan_h_noir.jpg" style="height:40px;"/>
 
 Les grandes conditions:
 
-| Stage | Autome Hiver ou Emploi junior au 4 mars 2024 |
+| Stage | Automne Hiver ou Emploi junior au 4 mars 2024 |
 | ------: | ----- |
 | Quoi?    | On cherche des tâches techniques, programmation, soutien utilisateur etc. Si vous avez un doute, écrivez-nous! |
 | Qui?    | On attend un superviseur dans l'entreprise qui est qualifié pour soutenir le stagiaire sur l'aspect technique |
