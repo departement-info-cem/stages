@@ -97,6 +97,15 @@ Dans tous les cas, ces stages sont admissibles. De nombreuses entreprises utilis
 > [!NOTE]
 > Nos étudiants sont souvent surprenants. Nous vous proposons d'offrir un stage pour les recevoir en entrevue, éventuellement leur faire passer un test technique. On ne vous demande pas de vous engager à prendre nos étudiants mais plutôt à leur consacrer un peu de temps pour une entrevue. Nous pouvons aussi en discuter, nous sommes dispos pour un appel ou un visio.
 
+*Pouvons-nous bénéficier de crédit d'impôt ou de subvention pour l'acceuil d'un stagiaire?*
+
+> [!NOTE]
+> À notre connaissance il existe 2 possibilités :
+> 1. Le programme Acceuillez un stagiaire - https://pratiquesrh.com/services/accueillez-un-stagiaire
+> 2. Le crédit d'impôt pour stage en milieu de travail de Revenu Québec - https://www.revenuquebec.ca/fr/entreprises/impots/impot-des-societes/credits-dimpot-des-societes/credits-auxquels-une-societe-peut-avoir-droit/credit-dimpot-pour-stage-en-milieu-de-travail-etudiant-inscrit-a-temps-plein-dans-un-etablissement-denseignement-reconnu/
+>  *ATTENTION* : L'entreprise est responsable de valider son admissibilité aux différents programmes.
+
+
 *Je suis incertain, qu'est-ce que je fais?*
 
 > [!NOTE]
