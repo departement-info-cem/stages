@@ -103,7 +103,8 @@ Dans tous les cas, ces stages sont admissibles. De nombreuses entreprises utilis
 > À notre connaissance il existe 2 possibilités :
 > 1. Le programme Acceuillez un stagiaire - https://pratiquesrh.com/services/accueillez-un-stagiaire
 > 2. Le crédit d'impôt pour stage en milieu de travail de Revenu Québec - https://www.revenuquebec.ca/fr/entreprises/impots/impot-des-societes/credits-dimpot-des-societes/credits-auxquels-une-societe-peut-avoir-droit/credit-dimpot-pour-stage-en-milieu-de-travail-etudiant-inscrit-a-temps-plein-dans-un-etablissement-denseignement-reconnu/
->  *ATTENTION* : L'entreprise est responsable de valider son admissibilité aux différents programmes.
+>    
+> **ATTENTION** : L'entreprise est responsable de valider son admissibilité aux différents programmes.
 
 
 *Je suis incertain, qu'est-ce que je fais?*
