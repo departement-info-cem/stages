@@ -19,6 +19,7 @@ Les grandes conditions:
 ## Nos étudiants et nos programmes d'études
 
 Nous avons 3 programmes d'études. 1 DEC et 2 AEC.
+
 | Programme | Heures de formation* | Grade
 | ------ | ----- | ----- |
 | DEC Techniques de l'informatique | xx | Diplôme d'études collégiales avec spécialisation en programmation (420.BA) ou en TI (420.BB)
