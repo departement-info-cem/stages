@@ -14,7 +14,7 @@ Les grandes conditions:
 | Durée? | En fonction du programme d'études. Le nombre d'heures et de semaines est un nombre minimal, vous pouvez avoir un stage plus long. |
 | Combien? $ | Les stages n'ont pas à être rémunérés. Si vous payez vos stagiaires, le salaire minimum en vigeur s'applique, ou une compensation financière forfaitaire peut être offerte aux stagiaires. |
 | Où?  | En présence, télétravail ou hybride. Si le stage est en présence, l'entreprise a une présence physique dans le grand Montréal |
-| Comment?  | On a un formulaire pour publier une offres ici https://forms.gle/w8Lq61F1kWHfRWMf7 |
+| Comment?  | On a un formulaire pour publier une offres ici [https://forms.gle/w8Lq61F1kWHfRWMf7](https://forms.gle/w8Lq61F1kWHfRWMf7) |
 
 ## Nos étudiants et nos programmes d'études
 
