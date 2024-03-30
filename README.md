@@ -1,27 +1,26 @@
-# Département d'informatique du collège Édouard Montpetit
+# Stages en informatique - Cégep Édouard-Montpetit
 
-## [Foire au stages du 11 octobre](foire)
-
-## Stages des finissants Diplôme d'études collégiales
-
-Cette année, nos finissants de DEC technique seront en stage du **4 mars 2024 au 10 mai 2024**.
+| Nos programmes     | Durée | Dates de stages | Liens
+| ------------- | ------------- | ------------- | ------------- | 
+| DEC Techniques de l'informatique (TI et Programmation) | 315 heures, 10 semaines | Prochaine cohorte en mars 2025 | [Je veux être avisé des prochains stages](https://forms.gle/HfQqqvLZJgyPe3J46)
+| AEC Gestionnaire de réseaux, sécurité et virtualisation | 255 heures, 11 semaines | 3 juin au 16 août 2024 | 🟢 [Publier une offre de stage](https://forms.gle/fiKXJWsD4UF7wgbb8)
+| AEC Développement d'applications Web | 315 heures, 9 semaines | 19 août au 18 octobre 2024 | 🟢 [Publier une offre de stage](https://forms.gle/fiKXJWsD4UF7wgbb8)
 
 Si vous êtes une entreprise et que vous cherchez un stagiaire, un employé junior ou que vous souhaitez proposer un stage:
 
 **[Pour les entreprises](entreprises)**
 
-
 Si vous êtes un étudiant, les questions fréquemment posées sont ici:
 
 **[Pour les étudiants](etudiants)**
 
-## Profs responsables
+# Profs responsables
 
 ### Vincent Drolet [profil Linkedin](https://www.linkedin.com/in/vdrolet)
-Principalement un professeur de réseautique avec un intérêt prononcé pour la cybersécurité. Vincent s'occupe principalement de la relation avec les étudiants.
+Principalement un professeur de réseautique avec un intérêt prononcé pour la cybersécurité. Vincent s'occupe principalement de la relation avec les étudiants (DEC + AEC) et des relations avec les entreprises pour les AEC.
 
 ### Joris Deguet [profil Linkedin](https://www.linkedin.com/in/joris-deguet-463781a)
-Principalement un professeur de programmation avec un penchant pour la programmation client mobile (Android / Flutter). Joris s'occupe principalement de la relation avec les entreprises.
+Principalement un professeur de programmation avec un penchant pour la programmation client mobile (Android / Flutter). Joris s'occupe principalement de la relation avec les entreprises au DEC.
 
 ### Courriel stage commun
-Nous utilisons le courriel mailto:stages-info@cegepmontpetit.ca pour les échanges relatifs aux stages, n'hésitez pas à nous contacter.
+Nous utilisons le courriel [stages-info@cegepmontpetit.ca](mailto:stages-info@cegepmontpetit.ca) pour les échanges relatifs aux stages, n'hésitez pas à nous contacter.
