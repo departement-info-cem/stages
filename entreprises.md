@@ -76,9 +76,16 @@ La plupart de nos stagiaires se voient confier un mélange d'administration et d
 Dans tous les cas, ces stages sont admissibles. De nombreuses entreprises utilisent le soutien utilisateur pour se faire une idée du niveau et des envies d'un stagiaire.
 
 ### AEC Gestionnaire de réseaux, sécurité et virtualisation
-Description à venir
+- Fournir un support aux utilisatrices et utilisateurs
+- Résoudre des incidents et des problèmes de systèmes
+- Gérer des serveurs et des réseaux
+- Effectuer la gestion du parc informatique au sein d’une entreprise.
+
 ### AEC Développement d'applications Web
-Description à venir
+- Écrire, modifier et déployer des applications Web
+- Assurer la maintenance des applications Web
+- Préparer des rapports, des manuels et d’autres documents sur l’état, l’exploitation et l’entretien des applications
+- Contribuer, avec une équipe projet, au développement d’une solution complète répondant au besoin d’un client
 
 ## Questions courantes
 *Si le stage se passe bien, je peux garder mon stagiaire?*  
