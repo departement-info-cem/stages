@@ -14,19 +14,17 @@ Les grandes conditions:
 | Durée? | En fonction du programme d'études. Le nombre d'heures et de semaines est un nombre minimal, vous pouvez avoir un stage plus long. |
 | Combien? $ | Les stages n'ont pas à être rémunérés. Si vous payez vos stagiaires, le salaire minimum en vigeur s'applique, ou une compensation financière forfaitaire peut être offerte aux stagiaires. |
 | Où?  | En présence, télétravail ou hybride. Si le stage est en présence, l'entreprise a une présence physique dans le grand Montréal |
-| Comment?  | On a un formulaire pour publier une offres ici [https://forms.gle/w8Lq61F1kWHfRWMf7](https://forms.gle/w8Lq61F1kWHfRWMf7) |
+| Comment?  | On a un formulaire pour publier une offre ici [https://forms.gle/w8Lq61F1kWHfRWMf7](https://forms.gle/w8Lq61F1kWHfRWMf7) |
 
 ## Nos étudiants et nos programmes d'études
 
 Nous avons 3 programmes d'études. 1 DEC et 2 AEC.
 
-| Programme | Heures de formation* | Grade
+| Programme | Durée | Grade
 | ------ | ----- | ----- |
-| DEC Techniques de l'informatique | xx | Diplôme d'études collégiales avec spécialisation en programmation (420.BA) ou en TI (420.BB)
-| AEC Gestionnaire de réseaux, sécurité et virtualisation | 1 200h | Attestation d'études collégiales (LÉA.A6)
-| AEC Développement d'applications Web | 1 305h | Attestation d'études collégiales (LÉA.DY)
-
-*Inclus seulement les heures de formation en informatique. Avant le départ en stage.
+| DEC Techniques de l'informatique | 3 ans (2925h) | Diplôme d'études collégiales avec spécialisation en programmation (420.BA) ou en TI (420.BB)
+| AEC Gestionnaire de réseaux, sécurité et virtualisation | 18 mois (1455h) | Attestation d'études collégiales (LÉA.A6)
+| AEC Développement d'applications Web | 19 mois (1845h) | Attestation d'études collégiales (LÉA.DY)
 
 ### DEC en techniques de l'informatique (profil programmation + profil TI)
 Nos finissants s'orientent après leur première session vers un profil spécifique entre :
@@ -76,12 +74,16 @@ La plupart de nos stagiaires se voient confier un mélange d'administration et d
 Dans tous les cas, ces stages sont admissibles. De nombreuses entreprises utilisent le soutien utilisateur pour se faire une idée du niveau et des envies d'un stagiaire.
 
 ### AEC Gestionnaire de réseaux, sécurité et virtualisation
+[Page du programme](https://fc.cegepmontpetit.ca/cegep/formation-continue/nos-formations/attestation-etudes-collegiales/administration-des-reseaux/)
+
 - Fournir un support aux utilisatrices et utilisateurs
 - Résoudre des incidents et des problèmes de systèmes
 - Gérer des serveurs et des réseaux
 - Effectuer la gestion du parc informatique au sein d’une entreprise.
 
 ### AEC Développement d'applications Web
+[Page du programme](https://fc.cegepmontpetit.ca/cegep/formation-continue/nos-formations/attestation-etudes-collegiales/developpement-dapplications-web/)
+
 - Écrire, modifier et déployer des applications Web
 - Assurer la maintenance des applications Web
 - Préparer des rapports, des manuels et d’autres documents sur l’état, l’exploitation et l’entretien des applications
