@@ -2,9 +2,9 @@
 
 | Nos programmes     | Durée | Dates de stages | Liens
 | ------------- | ------------- | ------------- | ------------- | 
-| DEC Techniques de l'informatique (TI et Programmation) | 315 heures, 10 semaines | Prochaine cohorte en mars 2025 | [Je veux être avisé des prochains stages](https://forms.gle/HfQqqvLZJgyPe3J46)
-| AEC Gestionnaire de réseaux, sécurité et virtualisation | 255 heures, 11 semaines | 3 juin au 16 août 2024 | 🟢 [Publier une offre de stage](https://forms.gle/fiKXJWsD4UF7wgbb8)
-| AEC Développement d'applications Web | 315 heures, 9 semaines | 19 août au 18 octobre 2024 | 🟢 [Publier une offre de stage](https://forms.gle/fiKXJWsD4UF7wgbb8)
+| DEC Techniques de l'informatique (TI et Programmation) | 10 semaines | Prochaine cohorte en mars 2025 | [Je veux être avisé des prochains stages](https://forms.gle/HfQqqvLZJgyPe3J46)
+| AEC Gestionnaire de réseaux, sécurité et virtualisation | 11 semaines | 3 juin au 16 août 2024 | 🟢 [Publier une offre de stage](https://forms.gle/fiKXJWsD4UF7wgbb8)
+| AEC Développement d'applications Web | 9 semaines | 19 août au 18 octobre 2024 | 🟢 [Publier une offre de stage](https://forms.gle/fiKXJWsD4UF7wgbb8)
 
 Si vous êtes une entreprise et que vous cherchez un stagiaire, un employé junior ou que vous souhaitez proposer un stage:
 
