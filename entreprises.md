@@ -26,10 +26,10 @@ Nous avons 3 programmes d'études. 1 DEC et 2 AEC.
 | AEC Gestionnaire de réseaux, sécurité et virtualisation | 18 mois (1455h) | Attestation d'études collégiales (LÉA.A6)
 | AEC Développement d'applications Web | 19 mois (1845h) | Attestation d'études collégiales (LÉA.DY)
 
-### DEC en techniques de l'informatique (profil programmation + profil TI)
+### 1) DEC en techniques de l'informatique (profil programmation + profil TI)
 Nos finissants s'orientent après leur première session vers un profil spécifique entre :
 
-#### DEC Profil Programmation (info de gestion)
+#### 1a) DEC Profil Programmation (info de gestion)
 
 [Grille des cours du profil programmation](https://info.cegepmontpetit.ca/dec/p)
 
@@ -54,7 +54,7 @@ Nos étudiants ont déjà complété de nombreux stages dans d'autres technologi
 
 Dans ces cas, la plupart des étudiants mettent en général 2 à 3 semaines à devenir productif dans le stack de l'entreprise.
 
-#### DEC profil TI/Réseautique (gestion des réseaux)
+#### 1b) DEC profil TI/Réseautique (gestion des réseaux)
   
 [Grille des cours du profil réseautique](https://info.cegepmontpetit.ca/dec/r)
 
@@ -73,7 +73,7 @@ La plupart de nos stagiaires se voient confier un mélange d'administration et d
 
 Dans tous les cas, ces stages sont admissibles. De nombreuses entreprises utilisent le soutien utilisateur pour se faire une idée du niveau et des envies d'un stagiaire.
 
-### AEC Gestionnaire de réseaux, sécurité et virtualisation
+### 2) AEC Gestionnaire de réseaux, sécurité et virtualisation
 [Page du programme](https://fc.cegepmontpetit.ca/cegep/formation-continue/nos-formations/attestation-etudes-collegiales/administration-des-reseaux/)
 
 - Fournir un support aux utilisatrices et utilisateurs
@@ -81,7 +81,7 @@ Dans tous les cas, ces stages sont admissibles. De nombreuses entreprises utilis
 - Gérer des serveurs et des réseaux
 - Effectuer la gestion du parc informatique au sein d’une entreprise.
 
-### AEC Développement d'applications Web
+### 3) AEC Développement d'applications Web
 [Page du programme](https://fc.cegepmontpetit.ca/cegep/formation-continue/nos-formations/attestation-etudes-collegiales/developpement-dapplications-web/)
 
 - Écrire, modifier et déployer des applications Web
