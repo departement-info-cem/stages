@@ -122,6 +122,13 @@ Dans tous les cas, ces stages sont admissibles. De nombreuses entreprises utilis
 >    
 > **ATTENTION** : L'entreprise est responsable de valider son admissibilité aux différents programmes de subventions.
 
+*À quoi m'attendre comme niveau d'implication si je supervise un étudiant pendant son stage dans mon entreprise ?*
+> [!NOTE]
+> L'encadrement nécessaire peut grandement varier d'un étudiant à l'autre, et en fonction des tâches qu'il fera.
+> En général, il faut prévoir du temps pour :
+> - Acceuillir le stagiaire, l'encadrer dans ses tâches techniques et répondre à ses questions tout au long de son stage (on estime à 7h par semaine d'encadrement)
+> - Compléter l'évaluation et partager les résultats avec l'étudiant (environ 1h)
+> - Être disponible pour 2 rencontres de 15 minutes avec un professeur du cégep pour des suivis au cours des semaines de stage
 
 *Je suis incertain, qu'est-ce que je fais?*
 
