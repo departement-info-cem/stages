@@ -5,7 +5,9 @@ Nous organisons une foire aux stages pour que les entreprises qui souhaitent ren
 Une table est mise à votre disposition, pour que vous puissiez y personnaliser votre kioske (affiche, nappe, etc.).
 
 La date et les détails de la prochainne foire aux stages seront publiés ici en automne.
+
 <!--
+
 ## Quand?
 
 Le 11 octobre en matinée (9h à 12h)
