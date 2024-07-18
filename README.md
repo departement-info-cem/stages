@@ -17,10 +17,13 @@ Si vous êtes un étudiant, les questions fréquemment posées sont ici:
 # Profs responsables
 
 ### Vincent Drolet [profil Linkedin](https://www.linkedin.com/in/vdrolet)
-Principalement un professeur de réseautique avec un intérêt prononcé pour la cybersécurité. Vincent s'occupe principalement de la relation avec les étudiants (DEC + AEC) et des relations avec les entreprises pour les AEC.
+Principalement un professeur de réseautique avec un intérêt prononcé pour la cybersécurité. Vincent s'occupe de la relation avec les étudiants et des relations avec les entreprises.
+
+### Pierre-Olivier Brillant [profil Linkedin](https://www.linkedin.com/in/pierreolivier-brillant/)
+Principalement un professeur de programmation avec un intérêt pour la cybersécurité. Pierre-Olivier s'occupe principalement de la [Foire aux Stages](foire) ainsi que de suivis auprès des étudiants.
 
 ### Joris Deguet [profil Linkedin](https://www.linkedin.com/in/joris-deguet-463781a)
-Principalement un professeur de programmation avec un penchant pour la programmation client mobile (Android / Flutter). Joris s'occupe principalement de la relation avec les entreprises au DEC.
+Principalement un professeur de programmation avec un penchant pour la programmation client mobile (Android / Flutter).
 
 ### Courriel stage commun
 Nous utilisons le courriel [stages-info@cegepmontpetit.ca](mailto:stages-info@cegepmontpetit.ca) pour les échanges relatifs aux stages, n'hésitez pas à nous contacter.
