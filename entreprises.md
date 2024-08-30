@@ -32,7 +32,7 @@ Nous avons 3 programmes d'études. 1 DEC et 2 AEC.
 
 | Programme | Durée | Grade
 | ------ | ----- | ----- |
-| DEC Techniques de l'informatique | 3 ans (2925h) | Diplôme d'études collégiales avec spécialisation en programmation (420.BA) ou en TI (420.BB)
+| DEC Techniques de l'informatique | 3 ans (2670h) | Diplôme d'études collégiales avec spécialisation en programmation (420.BA) ou en TI (420.BB)
 | AEC Gestionnaire de réseaux, sécurité et virtualisation | 18 mois (1455h) | Attestation d'études collégiales (LÉA.A6)
 | AEC Développement d'applications Web | 19 mois (1845h) | Attestation d'études collégiales (LÉA.DY)
 
