@@ -4,9 +4,9 @@ Nous organisons une foire aux stages pour que les entreprises qui souhaitent ren
 
 Une table est mise à votre disposition, pour que vous puissiez y personnaliser votre kiosque (affiche, nappe, etc.).
 
-La date et les détails de la prochaine foire aux stages seront publiés ici en automne.
-Photos édition 2023 :
-![ pic](https://raw.githubusercontent.com/departement-info-cem/stages/main/assets/foire-2023.png)
+## Pour participer
+
+Écrivez à [stages-info@cegepmontpetit.ca](stages-info@cegepmontpetit.ca) pour participer.
 
 ## Quand?
 
@@ -25,3 +25,7 @@ Dans la cafeteria blanche du CÉGEP.
 Le local est formellement appelé F-026 vous trouverez un plan du rez de chaussée annoté ici:
 
 ![planfoire](https://github.com/departement-info-cem/stages/assets/372085/91d44de2-fda6-4d01-a54c-6f0209c6e75f)
+
+Photos édition 2023 :
+
+![ pic](https://raw.githubusercontent.com/departement-info-cem/stages/main/assets/foire-2023.png)
