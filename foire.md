@@ -10,11 +10,11 @@ Une table est mise à votre disposition, pour que vous puissiez y personnaliser 
 
 ## Quand?
 
-Le 18 octobre en matinée (10h à 13h)
+Le 18 octobre à 10h
 
 ## Où?
 
-Dans la cafeteria blanche du CÉGEP. 
+Dans la cafeteria blanche du CÉGEP (F-026). 
 
 ### Pour se rendre au collège
 
