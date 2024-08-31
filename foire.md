@@ -4,13 +4,15 @@ Nous organisons une foire aux stages pour que les entreprises qui souhaitent ren
 
 Une table est mise à votre disposition, pour que vous puissiez y personnaliser votre kiosque (affiche, nappe, etc.).
 
+On tente aussi d'avoir un espace un peu plus privé pour que les entreprises qui le souhaite puisse faire des entrevues directement sur place.
+
 ## Pour participer
 
 Écrivez à [stages-info@cegepmontpetit.ca](stages-info@cegepmontpetit.ca) pour participer.
 
 ## Quand?
 
-Le 18 octobre à 10h
+Le 18 octobre à 10h.
 
 ## Où?
 
