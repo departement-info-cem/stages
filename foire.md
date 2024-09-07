@@ -6,9 +6,15 @@ Une table est mise à votre disposition, pour que vous puissiez y personnaliser 
 
 On tente aussi d'avoir un espace un peu plus privé pour que les entreprises qui le souhaite puisse faire des entrevues directement sur place.
 
+Ça se veut informel, alors on conserve une ambiance décontractée.
+
 ## Pour participer
 
 Écrivez à [stages-info@cegepmontpetit.ca](stages-info@cegepmontpetit.ca) pour participer.
+
+## Combien ça coûte ?
+
+C'est 100% gratuit !
 
 ## Quand?
 
