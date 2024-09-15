@@ -3,8 +3,8 @@
 | Nos programmes | Dates de stages | Liens
 | ------------- | ------------- | ------------- | 
 | DEC Techniques de l'informatique (TI et Programmation) | 10 mars au 16 mai 2025 | 🟢 [Publier une offre de stage](https://forms.gle/fiKXJWsD4UF7wgbb8)
-| AEC Gestionnaire de réseaux, sécurité et virtualisation | 24 mars au 30 mai 2025 | 🟢 [Publier une offre de stage](https://forms.gle/fiKXJWsD4UF7wgbb8)
 | AEC Développement d'applications Web | 24 mars au 30 mai 2025 | 🟢 [Publier une offre de stage](https://forms.gle/fiKXJWsD4UF7wgbb8)
+| AEC Gestionnaire de réseaux, sécurité et virtualisation | 31 mars au 6 juin 2025 | 🟢 [Publier une offre de stage](https://forms.gle/fiKXJWsD4UF7wgbb8)
 
 Si vous êtes une entreprise et que vous cherchez un stagiaire, un employé junior ou que vous souhaitez proposer un stage:
 
