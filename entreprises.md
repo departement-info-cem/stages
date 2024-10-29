@@ -1,4 +1,4 @@
-# Recruter un finissant de technique en informatique
+# Recruter un finissant en informatique
 <img src="https://www.cegepmontpetit.ca/static/uploaded/Files/Cegep/Pages-flottantes/Logos/Logo%202023/CEM/Logo_Edouard_Montpetit_Slogan_h_rgb.jpg" style="height:100px;"/>
 
 Sur cette page :
@@ -103,10 +103,13 @@ Dans tous les cas, ces stages sont admissibles. De nombreuses entreprises utilis
 ## Questions courantes
 *Si le stage se passe bien, je peux garder mon stagiaire?*  
 
-> Le stage conclut la formation de nos étudiants donc oui absolument. Cependant, pour les étudiants au il faut prendre en compte 2 cas:
+> Le stage conclut la formation de nos étudiants donc oui absolument.
+> 
+> Cependant, pour les étudiants au DEC, il faut prendre en compte 2 cas possibles :
 > - un étudiant au DEC peut avoir quelques cours à compléter (français, philo, etc.). En général, il ne s'agit pas forcément de beaucoup  d'heures par semaine et plusieurs ont déjà réussi à combiner avec un emploi à temps plein
 > - une bonne portion de nos étudiants au DEC continuent à l'université. Dans ce cas, ils peuvent / veulent parfois continuer à travailler pour vous en parallèle (par exemple, un mi-temps en entreprise + 3 cours à l'université)
-> - Nos étudiants aux AEC sont généralement prêt à débuter un emploi à temps plein en informatique à la suite de leur stage.
+> 
+> Pour nos étudiants aux AEC, ils sont généralement prêt à débuter un emploi à temps plein en informatique à la suite de leur stage.
 
 *Les stages sont payés?*  
 
