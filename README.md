@@ -18,10 +18,10 @@ Si vous êtes un étudiant, les questions fréquemment posées sont ici:
 
 # Profs responsables
 ### Joël Legrand [profil Linkedin](https://www.linkedin.com/in/joellegrand/)
-Principalement un professeur de programmation avec un penchant pour la gestion de projets et l'enrepreunariat.
+Principalement un professeur de programmation avec un penchant pour la gestion de projets et l'enrepreunariat. Joêl s'occupe de la relation avec les étudiants et des relations avec les entreprises.
 
 ### Vincent Drolet [profil Linkedin](https://www.linkedin.com/in/vdrolet)
-Principalement un professeur de réseautique avec un intérêt prononcé pour la cybersécurité. Vincent s'occupe de la relation avec les étudiants et des relations avec les entreprises.
+Principalement un professeur de réseautique avec un intérêt prononcé pour la cybersécurité. Vincent s'occupe de certains aspects logistiques par rapport aux stages ainsi que de suivis auprès des étudiants.
 
 ### Pierre-Olivier Brillant [profil Linkedin](https://www.linkedin.com/in/pierreolivier-brillant/)
 Principalement un professeur de programmation avec un intérêt pour la cybersécurité. Pierre-Olivier s'occupe principalement de la [Foire aux Stages](foire) ainsi que de suivis auprès des étudiants.
