@@ -2,7 +2,7 @@
 
 | Nos programmes | Dates de stages | Liens
 | ------------- | ------------- | ------------- | 
-| DEC Techniques de l'informatique (TI et Programmation) | 📅 mars à mai 2026 | ⏳ à venir
+| DEC Techniques de l'informatique (TI et Programmation) | 📅 9 mars au 15 mai 2026 | ⏳ à venir
 
 <!---
 | AEC Développement d'applications Web | 30 mars au 5 juin 2026 | 🟢 [Publier une offre de stage](https://forms.gle/fiKXJWsD4UF7wgbb8)
