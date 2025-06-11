@@ -1,13 +1,11 @@
 # Stages en informatique - Cégep Édouard-Montpetit
 
-| Nos programmes | Dates de stages | Liens
+| Nos programmes | 📅 Dates de stages | Liens
 | ------------- | ------------- | ------------- | 
-| DEC Techniques de l'informatique (TI et Programmation) | 📅 9 mars au 15 mai 2026 | ⏳ à venir
+| DEC Techniques de l'informatique (TI et Programmation) | 9 mars au 15 mai 2026 | ⏳ à venir ⏳ <!-- 🟢 [Publier une offre de stage](https://forms.gle/fiKXJWsD4UF7wgbb8) -->
+| AEC Développement d'applications Web | 30 mars au 5 juin 2026 | --- <!-- 🟢 [Publier une offre de stage](https://forms.gle/fiKXJWsD4UF7wgbb8) -->
+| AEC Gestionnaire de réseaux, sécurité et virtualisation | 23 février au 1 mai 2026 | ---
 
-<!---
-| AEC Développement d'applications Web | 30 mars au 5 juin 2026 | 🟢 [Publier une offre de stage](https://forms.gle/fiKXJWsD4UF7wgbb8)
-| AEC Gestionnaire de réseaux, sécurité et virtualisation | 23 février au 1 mai 2026 | 🟢 [Publier une offre de stage](https://forms.gle/fiKXJWsD4UF7wgbb8)
---->
 Si vous êtes une entreprise et que vous cherchez un stagiaire, un employé junior ou que vous souhaitez proposer un stage:
 
 **[Informations pour les entreprises](entreprises)**
