@@ -24,7 +24,6 @@ Les grandes conditions:
 | Quand?  | Les dates de début de stages dépendent du programme d'études. Les stages débutent à partir de la date affichée, ou plus tard lorsque les conditions le permettent. Les dates de début et de fin ont donc une certaine flexibilité. |
 | Combien? | Les stages n'ont pas à être rémunérés. Si vous payez vos stagiaires, le salaire minimum en vigeur s'applique, ou une compensation financière forfaitaire peut être offerte aux stagiaires. |
 | Où?  | En présence, télétravail ou hybride. Si le stage est en présence, l'entreprise a une présence physique dans le grand Montréal. |
-| Comment?  | On a un formulaire pour publier une offre ici [https://forms.gle/w8Lq61F1kWHfRWMf7](https://forms.gle/w8Lq61F1kWHfRWMf7) |
 
 ## Nos étudiants et nos programmes d'études
 
@@ -106,7 +105,7 @@ Dans tous les cas, ces stages sont admissibles. De nombreuses entreprises utilis
 > Le stage conclut la formation de nos étudiants donc oui absolument.
 > 
 > Cependant, pour les étudiants au DEC, il faut prendre en compte 2 cas possibles :
-> - un étudiant au DEC peut avoir quelques cours à compléter (français, philo, etc.). En général, il ne s'agit pas forcément de beaucoup  d'heures par semaine et plusieurs ont déjà réussi à combiner avec un emploi à temps plein
+> - un étudiant au DEC peut avoir quelques cours à compléter (français, philo, etc.). En général, il ne s'agit pas forcément de beaucoup d'heures par semaine et plusieurs ont déjà réussi à combiner avec un emploi à temps plein
 > - une bonne portion de nos étudiants au DEC continuent à l'université. Dans ce cas, ils peuvent / veulent parfois continuer à travailler pour vous en parallèle (par exemple, un mi-temps en entreprise + 3 cours à l'université)
 > 
 > Pour nos étudiants aux AEC, ils sont généralement prêt à débuter un emploi à temps plein en informatique à la suite de leur stage.
@@ -115,7 +114,7 @@ Dans tous les cas, ces stages sont admissibles. De nombreuses entreprises utilis
 
 > Officiellement les stages n'ont pas à êtres rémunérés. Cependant dans les 5 années passées plus de 90% des stages de nos finissants étaient rémunérés. Nous prenons les offres de stages non rémunérées. Il faut prendre en compte que la plupart de nos étudiants candidatent en priorité sur des offres rémunérées, il est donc possible que nous n'ayons aucune candidature sur les offres non rémunérés.
 
-*Pourquoi pas avant le 4 mars et pas en janvier?*  
+*Pourquoi les dates de stages sont fixes ?*  
 
 > Nos programmes incluent un projet des finissants où les étudiants travaillent à temps plein par équipes avant de partir en stages. Par exemple, au DEC, le projet s'effectue de la rentrée (dernière semaine de janvier) au début mars. Ce projet leur permet de développer les compétences de travail en équipe et de concrétiser tous les apprentissages du programme. On vous invitera d'ailleurs à la présentation de ce projet.
 
@@ -126,8 +125,10 @@ Dans tous les cas, ces stages sont admissibles. De nombreuses entreprises utilis
 *Pouvons-nous bénéficier de crédit d'impôt ou de subvention pour l'acceuil d'un stagiaire?*
 
 > À notre connaissance il existe 2 possibilités :
-> 1. Le programme Acceuillez un stagiaire - https://pratiquesrh.com/services/accueillez-un-stagiaire
-> 2. Le crédit d'impôt pour stage en milieu de travail de Revenu Québec - https://www.revenuquebec.ca/fr/entreprises/impots/impot-des-societes/credits-dimpot-des-societes/credits-auxquels-une-societe-peut-avoir-droit/credit-dimpot-pour-stage-en-milieu-de-travail-etudiant-inscrit-a-temps-plein-dans-un-etablissement-denseignement-reconnu/
+> 1. Le programme [Acceuillez un stagiaire](https://pratiquesrh.com/services/accueillez-un-stagiaire)
+> 2. Le [crédit d'impôt pour stage en milieu de travail de Revenu Québec](https://www.revenuquebec.ca/fr/entreprises/impots/impot-des-societes/credits-dimpot-des-societes/credits-auxquels-une-societe-peut-avoir-droit/credit-dimpot-pour-stage-en-milieu-de-travail-etudiant-inscrit-a-temps-plein-dans-un-etablissement-denseignement-reconnu/)
+>
+> Nous fournissons des attestations de complétition de stage aux entreprises qui en font la demande.
 >    
 > **ATTENTION** : L'entreprise est responsable de valider son admissibilité aux différents programmes de subventions.
 
