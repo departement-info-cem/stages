@@ -1,5 +1,14 @@
 # Stages finissants : page étudiants
 
+**Quelles sont les conditions pour qu'un stage soit admissible ?** 
+
+Les conditions sont les suivantes:
+  1. le mandat doit correspondre aux compétences du programme. Dur de donner une réponse générale ici, nous regardons entre coordos
+  2. il doit y avoir un superviseur qualifié et motivé dans l'entreprise. Le département informatique ne doit pas être exclusivement constitué de stagiaires
+  3. le stage doit couvrir le minimum d'heures. Nous demandons aussi que le stages dure un minimum de semaines [voir ici](README.md)
+  4. l'entreprise doit avoir une présence physique ou un numéro d'entreprise au Québec
+
+
 ## Je veux chercher un stage
 
 Par ordre de chance de succès:
@@ -18,12 +27,9 @@ Pour les étudiants intéressés par la cybersécurité en particulier, il est f
 
 ### Questions courantes
 
-**Combien d'élèves se trouvent leur stage tout seul?** 
-Année après année, on parle d'environ 10% des finissants au DEC qui trouve un stage par eux-mêmes
+**En général, comment les étudiants se trouve un stage ?** 
 
-**En général, comment ils l'ont trouvé?** 
-
-Souvent par un proche qui travaille dans l'entreprise en question. Parfois il s'agit de l'entreprise où ils travaillent pour leur job d'étudiant qui a un service informatique. Rarement, ils ont candidaté sur un site et ont été pris.
+Souvent par un proche qui travaille dans l'entreprise en question. Parfois il s'agit de l'entreprise où ils travaillent pour leur job d'étudiant qui a un service informatique. D'autres fois, ils ont candidaté sur un site et ont été pris.
 
 **Est-ce que je dois arrêter mes recherches à un moment donné?** 
 
@@ -40,27 +46,12 @@ Les deux. Lors d'un emploi, nous utiliserons les premières heures ou semaines d
 
 - tu as candidaté à une offre:
   - tu obtiens une entrevue, pense bien à mentionner les dates [voir ici](README.md)
-    - tu obtiens une offre officiel pour le stage, envoie le courriel de ton contact à un des profs de stage [voir ici](README.md)
-      - Un prof validera que le stage est bien admissible, si oui, on produira la convention de stage (pour les DEC, les conventions seront produites en janvier)
-      - le stage n'est pas admissible, on continue de chercher
-    - pas de réponse ou tu n'as pas été sélectionné pour le stage, on continue de chercher
-  - pas d'entrevue ou pas de réponse, on continue de chercher
+    - tu obtiens une offre officielle pour le stage, envoie les coordonnées de ton contact au coordonateur de stage de ton programme [voir ici](README.md)
+      - Un prof validera que le stage est bien admissible
+      - si le stage n'est pas admissible, tu poursuis tes recherches
+    - pas de réponse ou tu n'as pas été sélectionné pour le stage, tu poursuis tes recherches
+  - pas d'entrevue ou pas de réponse, tu poursuis tes recherches
 
 Dans quelques cas, on peut contacter l'entreprise avant que tu obtiennes un "oui" si tu souhaites qu'on valide le mandat avant.
 
-#### Questions courantes:
 
-**Je peux quand même candidater aux offres affichées?** 
-
-Oui, les coordos vont chercher les offres pour tous les finissants. Si tu trouves une offre qui t'intéresse plus que le stage déjà trouvé, tu pourrais faire une candidature.
-
-**Quelles sont les conditions pour qu'un stage soit admissible ?** 
-
-Les conditions sont les suivantes:
-  1. le mandat doit correspondre aux compétences du programme. Dur de donner une réponse générale ici, nous regardons entre coordos
-  2. il doit y avoir un superviseur qualifié et motivé dans l'entreprise. Le département informatique ne doit pas être exclusivement constitué de stagiaires
-  3. le stage doit couvrir le minimum d'heures. Nous demandons aussi que le stages dure un minimum de semaines [voir ici](README.md)
-  4. l'entreprise doit avoir une présence physique ou un numéro d'entreprise au Québec
-
-## Je veux candidater aux offres affichées par la coordination de stages
-En général, les offres sont affichées dans le canal Teams des stages. Il faut déposer son CV dans le devoir Teams correspondant à l'offre dans les délais prévus. Ta candidature sera ensuite envoyée à l'entreprise par les coordos de stage.
