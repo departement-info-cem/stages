@@ -3,7 +3,7 @@
 | Nos programmes | 📅 Dates de stages | Info
 | ------------- | ------------- | ------------- | 
 | DEC Techniques de l'informatique (TI et Programmation) | 9 mars au 15 mai 2026 | 🟢 [Publier une offre de stage](https://forms.gle/kcUqUynxxaGmn6Be6) 🟢
-| AEC Développement d'applications Web <br> AEC Gestionnaire de réseaux, sécurité et virtualisation | 30 mars au 5 juin 2026 <br> 23 février au 1 mai 2026 | Écrivez-nous au [stages-info@cegepmontpetit.ca](mailto:stages-info@cegepmontpetit.ca)
+| AEC Développement d'applications Web <br> AEC Gestionnaire de réseaux, sécurité et virtualisation | 30 mars au 5 juin 2026 <br> 23 fév. au 1 mai 2026 | Écrivez-nous au [stages-info@cegepmontpetit.ca](mailto:stages-info@cegepmontpetit.ca)
 
 <!--- | AEC Développement d'applications Web | 30 mars au 5 juin 2026 | Écrivez-nous au [stages-info@cegepmontpetit.ca](mailto:stages-info@cegepmontpetit.ca)
 | AEC Gestionnaire de réseaux, sécurité et virtualisation | 23 février au 1 mai 2026 <br> 18 mai au 17 juillet 2026 | Écrivez-nous au [stages-info@cegepmontpetit.ca](mailto:stages-info@cegepmontpetit.ca) -->
