@@ -18,7 +18,7 @@ C'est 100% gratuit !
 
 ## Quand?
 
-Le 18 octobre à 10h.
+La date de l'édition 2025 est en cours de confirmation, on vise le 15 octobre pour l'instant.
 
 ## Où?
 
