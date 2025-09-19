@@ -18,7 +18,7 @@ C'est 100% gratuit !
 
 ## Quand?
 
-Mercredi le 15 octobre 2025
+Mercredi le 15 octobre 2025, de 10h à 14h.
 
 ## Où?
 
