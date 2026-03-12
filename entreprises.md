@@ -11,8 +11,6 @@ Sur cette page :
   - [AEC Développement d'applications Web](#3-aec-d%C3%A9veloppement-dapplications-web)
 - [Questions courrantes - FAQ](#questions-courantes)
 
-## [Formulaire pour offrir un stage](https://forms.gle/Nbqeea3biDajxw1f6)
-
 ## Nos stages
 
 Les grandes conditions:
@@ -21,7 +19,7 @@ Les grandes conditions:
 | ------: | ----- |
 | Quoi?    | Les étudiants doivent effectuer des tâches techniques, programmation, soutien utilisateur etc. Si vous avez un doute, écrivez-nous! |
 | Qui?    | L'entreprise doit pouvoir offrir l'accès à un superviseur dans l'équipe de travail de l'étudiant qui est qualifié pour le soutenir sur l'aspect technique |
-| Quand?  | Les dates de début de stages dépendent du programme d'études. Les stages débutent à partir de la date affichée, ou plus tard lorsque les conditions le permettent. Les dates de début et de fin ont donc une certaine flexibilité. |
+| Quand?  | Les dates de début de stages dépendent du programme d'études. Les stages débutent à partir de la date affichée, ou plus tard lorsque les conditions le permettent. Les dates de début et de fin ont donc une certaine flexibilité. [Consulter les dates des prochains stages ici](README) |
 | Combien? | Les stages n'ont pas à être rémunérés. Si vous payez vos stagiaires, le salaire minimum en vigeur s'applique, ou une compensation financière forfaitaire peut être offerte aux stagiaires. |
 | Où?  | En présence, télétravail ou hybride. Si le stage est en présence, l'entreprise a une présence physique dans le grand Montréal. |
 
