@@ -2,7 +2,7 @@
 
 | Nos programmes | 📅 Dates de stages | Info
 | ------------- | ------------- | ------------- | 
-| DEC Techniques de l'informatique (TI et Programmation) | 8 mars à 14 mai 2027 | Écrivez-nous au [stages-info@cegepmontpetit.ca](mailto:stages-info@cegepmontpetit.ca) <!--- 🟢 [Publier une offre de stage](https://forms.gle/kcUqUynxxaGmn6Be6) 🟢 -->
+| DEC Techniques de l'informatique (TI et Programmation) | 8 mars à 14 mai 2027 |  <!--- Écrivez-nous au [stages-info@cegepmontpetit.ca](mailto:stages-info@cegepmontpetit.ca) --> 🟢 [Publier une offre de stage](https://forms.gle/i7xQ32dv93W2JbJB7) 🟢 
 | AEC Gestionnaire de réseaux, sécurité et virtualisation | Gr. 6151: 1er février au 9 avril 2027 <br> Gr. 6152: 3 mai au 9 juillet 2027 | Écrivez-nous au [stages-info@cegepmontpetit.ca](mailto:stages-info@cegepmontpetit.ca)
 
 <!--- | AEC Développement d'applications Web |  Gr. 6412: 30 mars au 5 juin 2026 | Écrivez-nous au [stages-info@cegepmontpetit.ca](mailto:stages-info@cegepmontpetit.ca)  -->
